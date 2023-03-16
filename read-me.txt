@@ -1,0 +1,3 @@
+Se for abrir o arquivo Jupyter Notebook, recomendo utilizar a seguinte sequência de atalhos, vai resumir os códigos na suas identações
+
+Ctrl + A , espera,  Ctrl + K + 0
